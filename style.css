@@ -1,0 +1,17 @@
+.container {
+    /* text-align: center; */
+    background-color: antiquewhite;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 100px;
+    padding: .8em;
+}
+.center {
+    text-align: center;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, rgb(83, 255, 175), rgb(250, 128, 155));
+}
+
